@@ -1,0 +1,2 @@
+# type
+Simple typing website
